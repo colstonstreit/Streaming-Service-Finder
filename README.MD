@@ -1,2 +1,2 @@
 Stream Finder
-CS 34800
+CS 34800 Project
